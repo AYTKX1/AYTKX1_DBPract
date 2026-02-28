@@ -1,0 +1,145 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="Oldal-1" id="Fbs4upcPeKONbGfkGDtg">
+    <mxGraphModel dx="2682" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hSdGbhV4rEXBioAIBnik-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="E_A" vertex="1">
+          <mxGeometry height="80" width="80" x="-540" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="E" vertex="1">
+          <mxGeometry height="60" width="120" x="-720" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-3" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="hSdGbhV4rEXBioAIBnik-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-530" y="-260" as="sourcePoint" />
+            <mxPoint x="-480" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-551" y="-280" as="sourcePoint" />
+            <mxPoint x="-591" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="F_ID" vertex="1">
+          <mxGeometry height="80" width="120" x="-920" y="-480" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="B" vertex="1">
+          <mxGeometry height="80" width="120" x="-920" y="-380" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="H" vertex="1">
+          <mxGeometry height="80" width="120" x="-920" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="I" vertex="1">
+          <mxGeometry height="80" width="120" x="-920" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-10" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-6" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hSdGbhV4rEXBioAIBnik-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="-260" as="sourcePoint" />
+            <mxPoint x="-570" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-11" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-7" style="endArrow=none;html=1;rounded=0;exitX=1.003;exitY=0.595;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hSdGbhV4rEXBioAIBnik-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="-260" as="sourcePoint" />
+            <mxPoint x="-570" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-12" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-2" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.963;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;" target="hSdGbhV4rEXBioAIBnik-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="-260" as="sourcePoint" />
+            <mxPoint x="-570" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-13" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-2" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="hSdGbhV4rEXBioAIBnik-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-620" y="-260" as="sourcePoint" />
+            <mxPoint x="-570" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="J" vertex="1">
+          <mxGeometry height="80" width="120" x="-640" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="K" vertex="1">
+          <mxGeometry height="80" width="120" x="-480" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-16" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hSdGbhV4rEXBioAIBnik-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-17" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hSdGbhV4rEXBioAIBnik-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="A" vertex="1">
+          <mxGeometry height="60" width="120" x="-400" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-19" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hSdGbhV4rEXBioAIBnik-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="B_ID" vertex="1">
+          <mxGeometry height="80" width="120" x="-200" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="C" vertex="1">
+          <mxGeometry height="80" width="120" x="-200" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="D" vertex="1">
+          <mxGeometry height="80" width="120" x="-210" y="-180" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-23" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-20" style="endArrow=none;html=1;rounded=0;exitX=0.023;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-280" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-25" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-21" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="hSdGbhV4rEXBioAIBnik-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-26" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-22" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="hSdGbhV4rEXBioAIBnik-18" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="D1" vertex="1">
+          <mxGeometry height="50" width="70" x="-300" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="D2" vertex="1">
+          <mxGeometry height="50" width="70" x="-185" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="70" x="-80" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-30" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-27" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-150" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-31" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-28" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="hSdGbhV4rEXBioAIBnik-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hSdGbhV4rEXBioAIBnik-32" edge="1" parent="1" source="hSdGbhV4rEXBioAIBnik-29" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="hSdGbhV4rEXBioAIBnik-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-440" y="-270" as="sourcePoint" />
+            <mxPoint x="-390" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
